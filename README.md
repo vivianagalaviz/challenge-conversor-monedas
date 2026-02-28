@@ -32,7 +32,7 @@ Este proyecto integra:
 ## 🎮 Funcionamiento
 
 El programa muestra un menú interactivo en consola:
-![image alt]()
+![image alt](https://github.com/vivianagalaviz/Repositorio1_VivianaGalaviz/blob/4791acbcbac71fd73f340ff5a9df1f74acccb146/Captura%20de%20pantalla%202026-02-24%20140539.png)
 
 # 🛠️ Tecnologías utilizadas
 - Java 21
