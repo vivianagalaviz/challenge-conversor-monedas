@@ -48,11 +48,7 @@ Se utiliza una variable de entorno
 
 # 🚀 Cómo ejecutar el proyecto
 
-1. Clonar repositorio:
-
-```bash
-git clone 
-```
+1. Clonar repositorio
 
 2. Configurar variable de entorno:
 EXCHANGE_API_KEY=tu_clave_aqui
